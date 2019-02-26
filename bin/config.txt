@@ -1,0 +1,3 @@
+﻿srcPath:E:\ProgramCreate\TagTool\TagTool\bin\x86\image_src\
+resPath:E:\ProgramCreate\TagTool\TagTool\bin\x86\result\
+Label:###

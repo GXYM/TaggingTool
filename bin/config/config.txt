@@ -1,0 +1,5 @@
+﻿srcPath:E:\ProgramCreate\TagTool\TagTool\bin\video_src\
+resPath:E:\ProgramCreate\TagTool\TagTool\bin\image\
+Label:###
+SaveModelFlag:0
+UserName:古溪一梦

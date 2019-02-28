@@ -1,0 +1,5 @@
+*.js linguist-language=C#
+
+*.dll linguist-language=C#
+
+*.xml linguist-language=C#

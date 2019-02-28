@@ -1,4 +1,4 @@
-*.js linguist-language=C#
+*.exe linguist-language=C#
 
 *.dll linguist-language=C#
 
